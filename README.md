@@ -1,2 +1,1 @@
-# test
 # AI Basics
