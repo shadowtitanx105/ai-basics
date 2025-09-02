@@ -1,2 +1,3 @@
 - Day 1 setup complete
 - used librosa for the first time, used it to load a .wav file and extract detials like the duration and the sample rate, then generated its waveform and saved it as a png artifact
+-put a music file at the root of the repo
